@@ -3,5 +3,8 @@ __pycache__
 *.pyc
 config.json
 /build
+/dist
 *.spec
 /.idea/
+*.iml
+output/
