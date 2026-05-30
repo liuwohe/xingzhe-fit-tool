@@ -1,0 +1,4 @@
+requests
+gpxpy
+garmin-fit-sdk
+PySide6
